@@ -1,0 +1,1 @@
+<?php header("location: fetchDb.php"); ?>
